@@ -1,0 +1,53 @@
+{
+	"Produk" : [
+			{
+				"karoseri":[
+					{"nama":"fullboxbesi","judul":"Full Box Besi","gambar":"../img/full_box_besi.jpg","id":1,"menu":[
+						{"tipe":"  Light Truck 4rd","dimensi":"300 x 175 x 180"},
+						{"tipe":"  Light Truck 4rd Long","dimensi":"400 x 175 x 180"},
+						{"tipe":"  Light Truck 6rd FE74 HD K ","dimensi":"420 x 200 x 180"},
+						{"tipe":"  Light Truck 6rd FE74 S K ","dimensi":"460 x 200 x 195"},
+						{"tipe":"  Light Truck 6rd 74  L K ","dimensi":"570 x 200 x 200"}
+					]
+				},
+					{"nama":"loadbakbesi","judul":"Loadbak Besi","gambar":"../img/load_bak_besi.jpg","id":2,"menu":[
+						{"tipe":"  Colt L300","dimensi":"240 x 170 x 50"},
+						{"tipe":"  Light Truck 4rd","dimensi":"300 x 175 x 50"},
+						{"tipe":"  Light Truck 4rd ( Bak Gas )","dimensi":"300 x 175 "},
+						{"tipe":"  Light Truck 4rd Long","dimensi":"400 x 175 x 50"},
+						{"tipe":"  Light Truck 6rd FE74 HD K","dimensi":"420 x 200 x 60"},
+						{"tipe":"  Light Truck 6rd FE74 HD K ( Bak Gas +Pipa )","dimensi":"420 x 200 x 120"},
+						{"tipe":"  Light Truck 6rd FE74 HD K ( Bak L angkut Semen )","dimensi":"420 x 200"},
+						{"tipe":"  Light Truck 6rd FE74 HD K ( Bak  ayam )","dimensi":"420 x 200 x 200"},
+						{"tipe":"  Light Truck 6rd FE74 S K ","dimensi":"460 x 200 x 60"},
+						{"tipe":"  Light Truck 6rd FE74 S K ( Bak Gas+Pipa )","dimensi":"460 x 200 x 120"},
+						{"tipe":"  Light Truck 6rd FE74 S K ( Bak L angkut Semen )","dimensi":"460 x 200"},
+						{"tipe":"  Light Truck 6rd FE74 S K ( Bak ayam )","dimensi":"460 x 200 x 200"}
+					]
+				},
+					{"nama":"fullboxalluminium","judul":"Full Box Alluminium","gambar":"../img/full_box_alluminium.jpg","id":3,"menu":[
+						{"tipe":"  D.Granmax  ","dimensi":"235 x 170 x 150"},
+						{"tipe":"  Colt L300","dimensi":"240 x 170 x 150"},
+						{"tipe":"  Light Truck 4 rd","dimensi":"300 x 175 x 180"},
+						{"tipe":"  Light Truck 4 rd Long","dimensi":"400 x 175 x 180"},
+						{"tipe":"  Light Truck 6 rd FE74 HD K","dimensi":"420 x 200 x 180"},
+						{"tipe":"  Light Truck 6 rd FE74 S K","dimensi":"460 x 200 x 195"},
+						{"tipe":"  Light Truck 6 rd 74 L K","dimensi":"570 x 200 x 195"}
+					]
+				},
+					{"nama":"halfboxalluminium","judul":"Half Box Alluminium","gambar":"../img/../img/half_box_alluminium.jpg","id":4,"menu":[
+						{"tipe":"  D.Granmax ","dimensi":"236 x 167 x 120"},
+						{"tipe":"  Colt L300","dimensi":"264 x 170 x 120"}
+					]
+				},
+					{"nama":"dumptruk","judul":"Dump Truck","gambar":"../img/dump_truck.jpg","id":5,"menu":[
+						{"tipe":"  FE SHD-X HI GEAR","dimensi":"400 x 207 x 70"},
+						{"tipe":"  FUSO FN62F","dimensi":"600 X 250 X 100"},
+						{"tipe":"  FE74 HD K jumbo","dimensi":"420 x 195 x 150"},
+						{"tipe":"  FE74 HD K ","dimensi":"425x"}
+					]
+				}
+			]	
+		}
+	]
+}
