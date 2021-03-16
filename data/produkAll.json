@@ -88,9 +88,8 @@
 						"deskripsi":"Kami melayani pengecatan bagian body atau kabin produk karoseri anda secara presisi dan menyeluruh ",
 						"menu":
 							[
-								{"layanan":"Pengecatan L300 PU", "biaya":"Rp 4.500.000"},
 								{"layanan":"Pengecatan Cabin L300","biaya":"Rp 3.000.000"},
-								{"layanan":"Pengecatan Cabin Colt D","biaya":"Rp 3.000.000"}
+								{"layanan":"Pengecatan Cabin Canter","biaya":"Rp 3.000.000"}
 							],
 						"gambar":"https://i.ibb.co/s5CbLny/pengecatan.jpg",
 						"id":1
